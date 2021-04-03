@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######`
+dateutil
+numpy
+openpyxl
+pandas
+
